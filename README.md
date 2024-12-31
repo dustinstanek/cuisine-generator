@@ -1,2 +1,0 @@
-# cuisine-generator
-yuh
